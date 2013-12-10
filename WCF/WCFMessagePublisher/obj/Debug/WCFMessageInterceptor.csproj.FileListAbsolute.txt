@@ -1,0 +1,9 @@
+C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WCFMessageInterceptor\bin\Debug\WCFMessageInterceptor.dll
+C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WCFMessageInterceptor\bin\Debug\WCFMessageInterceptor.pdb
+C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WCFMessageInterceptor\bin\Debug\MessageInterceptor.dll
+C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WCFMessageInterceptor\bin\Debug\WSO2BamRestApi.dll
+C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WCFMessageInterceptor\bin\Debug\MessageInterceptor.pdb
+C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WCFMessageInterceptor\bin\Debug\WSO2BamRestApi.pdb
+C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WCFMessageInterceptor\obj\Debug\WCFMessageInterceptor.csprojResolveAssemblyReference.cache
+C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WCFMessageInterceptor\obj\Debug\WCFMessageInterceptor.dll
+C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WCFMessageInterceptor\obj\Debug\WCFMessageInterceptor.pdb

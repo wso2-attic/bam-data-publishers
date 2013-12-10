@@ -1,0 +1,13 @@
+C:\Users\Ayash\TestSamples\WSO2BamRestApi\WSO2BamRestApi\bin\Debug\WSO2BamRestApi.dll
+C:\Users\Ayash\TestSamples\WSO2BamRestApi\WSO2BamRestApi\bin\Debug\WSO2BamRestApi.pdb
+C:\Users\Ayash\TestSamples\WSO2BamRestApi\WSO2BamRestApi\obj\Debug\WSO2BamRestApi.csprojResolveAssemblyReference.cache
+C:\Users\Ayash\TestSamples\WSO2BamRestApi\WSO2BamRestApi\obj\Debug\WSO2BamRestApi.Properties.Resources.resources
+C:\Users\Ayash\TestSamples\WSO2BamRestApi\WSO2BamRestApi\obj\Debug\WSO2BamRestApi.csproj.GenerateResource.Cache
+C:\Users\Ayash\TestSamples\WSO2BamRestApi\WSO2BamRestApi\obj\Debug\WSO2BamRestApi.dll
+C:\Users\Ayash\TestSamples\WSO2BamRestApi\WSO2BamRestApi\obj\Debug\WSO2BamRestApi.pdb
+C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WSO2BamRestApi\bin\Debug\WSO2BamRestApi.dll
+C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WSO2BamRestApi\bin\Debug\WSO2BamRestApi.pdb
+C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WSO2BamRestApi\obj\Debug\WSO2BamRestApi.Properties.Resources.resources
+C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WSO2BamRestApi\obj\Debug\WSO2BamRestApi.csproj.GenerateResource.Cache
+C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WSO2BamRestApi\obj\Debug\WSO2BamRestApi.dll
+C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WSO2BamRestApi\obj\Debug\WSO2BamRestApi.pdb

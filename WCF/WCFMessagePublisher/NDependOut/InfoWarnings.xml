@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<InfoWarnings>
+  <Info>12/06/2013 12:24:38 Begin full analysis with NDepend v5.1.0.8180</Info>
+  <Info>No Baseline for Comparison loaded.</Info>
+  <Info>Concurrent mode</Info>
+  <Info>.NET Assemblies loaded from {C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WCFMessagePublisher\bin\Debug} 
+   WCFMessagePublisher.dll   v1.0.0.0
+   WSO2BamRestApi.dll   v1.0.0.0
+   WCFMessageInterceptor.dll   v4.0.0.0</Info>
+  <Info>.NET Assemblies loaded from {C:\Windows\Microsoft.NET\Framework\v4.0.30319} 
+   System.ServiceModel.dll   v4.0.0.0
+   mscorlib.dll   v4.0.0.0
+   System.Xml.dll   v4.0.0.0
+   System.dll   v4.0.0.0</Info>
+  <Warning>No application or third party assembly found in folder {C:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF}</Warning>
+  <Info>20 source files parsed ; all source files found ; all source files in-sync with PDB</Info>
+  <Info>0 code rule has been extracted from code.</Info>
+  <Info>No dependency cycle detected in assemblies referencement graph.</Info>
+  <Info>12/06/2013 12:24:40 Analyse dependencies of your application.</Info>
+  <Info>12/06/2013 12:24:47 Log trend metrics values.</Info>
+  <Info>12/06/2013 12:24:48 Execute queries and rules</Info>
+  <Warning>2 critical rules are violated.
+  - Potentially dead Types
+  - Potentially dead Methods</Warning>
+  <Info>12/06/2013 12:24:50 NDepend analysis done. Duration: 00:12</Info>
+  <Info>12/06/2013 12:24:50 Building the report (standard).</Info>
+</InfoWarnings>

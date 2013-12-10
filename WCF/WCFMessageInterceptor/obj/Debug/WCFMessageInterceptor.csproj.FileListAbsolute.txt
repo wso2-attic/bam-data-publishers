@@ -1,0 +1,8 @@
+C:\WF_WCF_Samples\WCF\Extensibility\Channels\MessageInterceptor\CS\library\bin\WCFMessageInterceptor.dll
+C:\WF_WCF_Samples\WCF\Extensibility\Channels\MessageInterceptor\CS\library\bin\WCFMessageInterceptor.pdb
+C:\WF_WCF_Samples\WCF\Extensibility\Channels\MessageInterceptor\CS\library\obj\Debug\WCFMessageInterceptor.dll
+C:\WF_WCF_Samples\WCF\Extensibility\Channels\MessageInterceptor\CS\library\obj\Debug\WCFMessageInterceptor.pdb
+C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WCFMessageInterceptor\bin\WCFMessageInterceptor.dll
+C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WCFMessageInterceptor\bin\WCFMessageInterceptor.pdb
+C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WCFMessageInterceptor\obj\Debug\WCFMessageInterceptor.dll
+C:\Users\Ayash\Documents\Visual Studio 2012\Projects\WCFMessageInterceptor\obj\Debug\WCFMessageInterceptor.pdb

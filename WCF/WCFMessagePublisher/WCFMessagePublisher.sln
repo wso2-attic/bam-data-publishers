@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFMessagePublisher", "WCFMessagePublisher.csproj", "{9A3912E3-AE92-484C-A720-E2D57A246671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFMessageInterceptor", "..\WCFMessageInterceptor\WCFMessageInterceptor.csproj", "{D067DEE6-D9F3-4169-981E-02732E8ABA72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSO2BamRestApi", "..\WSO2BamRestApi\WSO2BamRestApi.csproj", "{9BCEB104-0AEE-41D8-8E10-582C01106668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A3912E3-AE92-484C-A720-E2D57A246671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3912E3-AE92-484C-A720-E2D57A246671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3912E3-AE92-484C-A720-E2D57A246671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3912E3-AE92-484C-A720-E2D57A246671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D067DEE6-D9F3-4169-981E-02732E8ABA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D067DEE6-D9F3-4169-981E-02732E8ABA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D067DEE6-D9F3-4169-981E-02732E8ABA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D067DEE6-D9F3-4169-981E-02732E8ABA72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BCEB104-0AEE-41D8-8E10-582C01106668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCEB104-0AEE-41D8-8E10-582C01106668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCEB104-0AEE-41D8-8E10-582C01106668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCEB104-0AEE-41D8-8E10-582C01106668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NDepend) = preSolution
+		Project = ".\WCFMessagePublisher.ndproj"
+	EndGlobalSection
+EndGlobal

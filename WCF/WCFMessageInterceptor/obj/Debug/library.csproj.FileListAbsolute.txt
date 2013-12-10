@@ -1,0 +1,4 @@
+C:\WF_WCF_Samples\WCF\Extensibility\Channels\MessageInterceptor\CS\library\bin\MessageInterceptor.dll
+C:\WF_WCF_Samples\WCF\Extensibility\Channels\MessageInterceptor\CS\library\bin\MessageInterceptor.pdb
+C:\WF_WCF_Samples\WCF\Extensibility\Channels\MessageInterceptor\CS\library\obj\Debug\MessageInterceptor.dll
+C:\WF_WCF_Samples\WCF\Extensibility\Channels\MessageInterceptor\CS\library\obj\Debug\MessageInterceptor.pdb
