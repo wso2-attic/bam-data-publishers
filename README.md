@@ -1,6 +1,4 @@
 bam-data-publishers
 ===================
 
-custom bam data publisher modules   
-
-edit1
+custom bam data publisher modules
